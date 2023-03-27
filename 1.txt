@@ -1,4 +1,19 @@
 hello this is text was writen salam
+<<<<<<< HEAD
 Development
 Test
 Production
+=======
+4
+23
+45
+56
+56
+6
+7
+657
+56
+767
+657
+67
+>>>>>>> alpha
